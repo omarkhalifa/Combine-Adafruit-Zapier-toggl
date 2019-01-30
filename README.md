@@ -51,11 +51,3 @@ _It's possible to give another value to our feed without removing the 100 value.
 3. When someone stops using Toggl a trigger will be send to Adafruit and the value in the feed will be 0.
 
 Congrats! You made a system that will show if someone is using Zappier or not. This could be useful to see if you want to make a system to see if someone is home or not. These values (100 & 0) can be used in a code. 100 could be the value of someone being home and 0 is the value for an empty house.
-
-![Alt text](C:\Users\omark\Desktop\School\Jaar3\Internet of Things\Afbeeldingen "Optional Title")
-
-
-
-
-
-
