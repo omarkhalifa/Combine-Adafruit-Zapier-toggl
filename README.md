@@ -1,7 +1,8 @@
 # Combine-Adafruit-Zapier-toggl
 Manual by Omar Khalifa
 
-By following the instructions in this manual is it possible to make a fully functional setup between Adafruit, Zapier and Toggl. You can also create a system where you can see if someone is home or not.
+By following the instructions in this manual is it possible to make a fully functional setup between Adafruit, Zapier and Toggl. 
+With all the information you gather by following this manual is it possible to create a system where you can check if someone is at home or not.
 
 *Make sure that you have a working internet connection and a up-to-date webbrowser.* 
 
